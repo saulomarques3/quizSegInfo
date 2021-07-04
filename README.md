@@ -35,7 +35,7 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
 
 # 👉 Status do Projeto <a id="link3"></a>
 
-* Em desenvolvimento... ⚠️ 👨‍💻
+* Concluído 👨‍💻
 
 # 👉 Vídeo de Apresentação/ Marketing <a id="link4"></a>
 <a href="https://www.youtube.com/watch?v=5NtNpFEypPE"><img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/imageVideoMkt.jpg" title="Clique e assista ao vídeo no YouTube" width="750" height="400" /></a>
