@@ -1,0 +1,267 @@
+{
+  "questions": [
+    {
+      "title":"1) Marque a alternativa que descreve corretamente o que é phishing?",
+      "questions": [
+        {
+          "title": "a) Um worm de computador.",
+          "value": 0
+        },
+        {
+          "title": "b) Um programa que executa outros vírus depois de instalado.",
+          "value": 0
+        },
+        {
+          "title": "c) É um vírus de computador que apaga arquivos.",
+          "value": 0
+        },
+        {
+          "title": "d) É um vírus de computador que deixa o sistema operacional lento e travando.",
+          "value": 0
+        },
+        {
+          "title": "e) É um vírus de computador que simula sites, e-mails, redes sociais, entre outros, todos eles falsos, no intuito de obter senhas e informações pessoais.",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title":"2) Considerando o valor das informações e a importância de um backup, o que seria a boa prática de manter um backup redundante?",
+      "questions": [
+        {
+          "title": "a) Backup baseado na nuvem",
+          "value": 0
+        },
+        {
+          "title": "b) Backup baseado em servidores locais",
+          "value": 0
+        },
+        {
+          "title": "c) Backup que utiliza mais de um HD",
+          "value": 0
+        },
+        {
+          "title": "d) Várias cópias do mesmo backup",
+          "value": 1
+        },
+        {
+          "title": "e) Backup criptografado com senhas complexas e mais seguras",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"3) Marque a alternativa em que todas opções são classificados como Malware.",
+      "questions": [
+        {
+          "title": "a) Vírus, Worm, Botnet e Stalker",
+          "value": 0
+        },
+        {
+          "title": "b) Trojan, Spyware, Backdoor e Botnet",
+          "value": 1
+        },
+        {
+          "title": "c) Stalker, Botnet, Vírus e Worm",
+          "value": 0
+        },
+        {
+          "title": "d) Spyware, Trojan, Rootkit e Browser",
+          "value": 0
+        },
+        {
+          "title": "e) Backdoor, Vírus, PrintScreen e Rootkit",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"4) Sobre a técnica maliciosa de Spam, marque a alternativa correta",
+      "questions": [
+        {
+          "title": "a) Envia e-mails indesejados de maneira massiva. Seu conteúdo pode ter apelo comercial, embarcar outros tipos de vírus, promover golpes na internet, conteúdos ofensivos, entre outros.",
+          "value": 1
+        },
+        {
+          "title": "b) Depois de instalado no computador fica mostrando várias páginas de internet sem o consentimento do usuário com o intuito de danificar o sistema operacional",
+          "value": 0
+        },
+        {
+          "title": "c) É um vírus que prejudica a internet do usuário, impossibilitando o uso do e-mail pessoal ou comercial",
+          "value": 0
+        },
+        {
+          "title": "d) Rouba todas as informações do usuário do computador infectado",
+          "value": 0
+        },
+        {
+          "title": "e) É uma técnica utilizada pelos hackers para alterar páginas da web",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"5) Sobre mecanismos de segurança: O que define um Firewall pessoal?",
+      "questions": [
+        {
+          "title": "a) Firewall pessoal é utilizado para proteger um computador contra acessos não autorizados, controlando entradas e saídas da rede local com a internet",
+          "value": 1
+        },
+        {
+          "title": "b) É utilizado como servidor de rede local, onde é possível criar contas de usuários com senhas seguras",
+          "value": 0
+        },
+        {
+          "title": "c) Quando instalado em modo default, o firewall pessoal é capaz de fazer backups automáticos, impedindo a perda de dados dos computadores da rede",
+          "value": 0
+        },
+        {
+          "title": "d) Um firewall pessoal protege todas as informações do usuário utilizando criptografia em todos os arquivos",
+          "value": 0
+        },
+        {
+          "title": "e) É usado por grandes empresas para controlar o acesso à internet",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"6) Qual composição de senha é considerada mais segura?",
+      "questions": [
+        {
+          "title": "a) Composta de apenas letras",
+          "value": 0
+        },
+        {
+          "title": "b) Composta de letras e números",
+          "value": 0
+        },
+        {
+          "title": "c) Composta de letras, números, caracteres especiais e sinais de pontuação",
+          "value": 1
+        },
+        {
+          "title": "d) Composta de letras maiúsculas e minúsculas, mais números",
+          "value": 0
+        },
+        {
+          "title": "e) Composta de apenas números",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"7) O que significa criptografar uma mensagem eletrônica?",
+      "questions": [
+        {
+          "title": "a) Enviar a mensagem via internet pelo e-mail da empresa",
+          "value": 0
+        },
+        {
+          "title": "b) Enviar a mensagem via internet por qualquer computador",
+          "value": 0
+        },
+        {
+          "title": "c) São e-mails escritos e enviados pelo usuário com cópia oculta",
+          "value": 0
+        },
+        {
+          "title": "d) São mensagens embaralhadas/codificadas de acordo com um método pré-definido",
+          "value": 1
+        },
+        {
+          "title": "e) Significa substituir as vogais da mensagem por números, exemplo: letra E pelo número 3",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"8) Sobre segurança na internet, marque a alternativa errada.",
+      "questions": [
+        {
+          "title": "a) Ao acessar seu e-mail, evite usar computadores de terceiros, e se for o caso, utilize o modo de navegação anônima",
+          "value": 0
+        },
+        {
+          "title": "b) Quando acessar o site de um banco ou instituição financeira que você utiliza verifique se a conexão na página de login é do tipo HTTP",
+          "value": 1
+        },
+        {
+          "title": "c) Permitir programas ActiveX apenas de sites conhecidos e confiáveis, pois ao instalar certificados digitais você permite que o programa faça alterações em seu computador",
+          "value": 0
+        },
+        {
+          "title": "d) Mantenha seus navegadores de internet atualizados e controle o uso de cookies de sites desconhecidos",
+          "value": 0
+        },
+        {
+          "title": "e) Ao acessar seus e-mails, observe se o protocolo de segurança da página é do tipo seguro, HTTPS",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"9) Para manter um computador com nível de segurança adequado você deve:",
+      "questions": [
+        {
+          "title": "a) Clicar em qualquer link de e-mail que esteja em sua caixa de entrada, pois os e-mails com links perigosos ficam na pasta chamada SPAM",
+          "value": 0
+        },
+        {
+          "title": "b) Manter softwares de computadores desatualizados e em desuso",
+          "value": 0
+        },
+        {
+          "title": "c) Usar apenas softwares originais ou softwares gratuitos, dos tipos Open source ou Livres",
+          "value": 1
+        },
+        {
+          "title": "d) Desabilitar atualizações automáticas dos navegadores de internet (browser), pois daí é que vem a maioria dos vírus de internet",
+          "value": 0
+        },
+        {
+          "title": "e) Não utilize antimalwares para a prevenção de vírus e invasões ao seu computador. É melhor você mesmo fazer essa prevenção manualmente",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "title":"10) Sobre tipos de ataques e ameaças a Redes de Computadores, marque a opção falsa.",
+      "questions": [
+        {
+          "title": "a) Furto de dados",
+          "value": 0
+        },
+        {
+          "title": "b) Ataque de força bruta",
+          "value": 0
+        },
+        {
+          "title": "c) Interceptação de tráfego",
+          "value": 0
+        },
+        {
+          "title": "d) Varredura da rede",
+          "value": 0
+        },
+        {
+          "title": "e) Criptografia de chave assimétrica",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "title": "Agradecemos seu interesse em Segurança da Informação. Você gostou de nosso aplicativo?",
+      "questions": [
+        {
+          "title": "a) Sim",
+          "value": 0
+        },
+        {
+          "title": "b) Não",
+          "value": 0
+        }
+      ]
+    }
+  ]
+}
