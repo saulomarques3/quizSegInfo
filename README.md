@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/logoQuizSI.png" width="190" heigth="190" />
-  <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/bannerQuiz.png" width="550" /> 
+  <img src="https://github.com/saulomarques/quizSegInfo/blob/main/images/bannerQuiz.png" width="550" heigth="190" /> 
 </p>
   
 # 👉 Descrição: <a id="link2"></a>
