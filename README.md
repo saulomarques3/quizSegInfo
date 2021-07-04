@@ -29,8 +29,7 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
    * [Widget Tree](#link7)
    * [Gráfico de navegação das telas](#link8)
    * [Autor](#link9)
-   * [Colaboradores](#link10)
-   * [Licença](#link11)
+   * [Licença](#link10)
 
 
 # 👉 Status do Projeto <a id="link3"></a>
@@ -65,11 +64,6 @@ O intuito é fazer com que o usuário leia mais sobre os assuntos de Segurança 
 # 👉 Autor <a id="link9"></a>
 
 * Saulo Marques
-
-# 👉 Colaboradores <a id="link10"></a>
-
-* Guilherme H S Souza
-* Luís Felipe C de Amorim
 
 # 👉 Licença <a id="link10"></a>
 
